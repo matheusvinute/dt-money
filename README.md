@@ -11,7 +11,7 @@ Projeto de gestão financeira pessoal
 Este é um projeto densenvolvido em Reactjs, para fazer gestão financeira pessoal,
 com enfdradas financeiras(salario) e contas.
 
-
+[![img](https://github.com/matheusvinute/dt-money/blob/main/img.png)](#)
 
 ## Instruções
 
